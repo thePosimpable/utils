@@ -1,2 +1,2 @@
-# rmdupes
-Script to remove duplicate files in a directory
+# utils
+Utility scripts I personally use.
